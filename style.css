@@ -1,0 +1,60 @@
+html {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+body {
+    background-color: rgb(0, 0, 255);
+    border: 5px solid #ff8000;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: silver;
+    text-shadow: 
+    -1px -1px 0 #ff8000,
+    -1px -1px 0 #ff8000,
+    -1px -1px 0 #ff8000,
+    -1px -1px 0 #ff8000;
+}
+#spacing {
+    padding: 25px;
+    background-color: silver;
+    border: 1px solid silver;
+}
+div {
+    border: 3px solid #ff8000;
+    background-color: rgb(192, 192, 192); 
+    padding-left: 50px;
+    padding-bottom: 25px;
+    padding-right: 50px;
+    padding-top: 25px;
+}
+#titlescreen {
+    background-color: rgb(0, 0, 127);
+}
+#mainscreen {
+    background-color: rgb(48, 48, 48);
+    font-size: larger;
+        text-shadow: 
+    -1px -1px 0 blue,
+    -1px -1px 0 blue,
+    -1px -1px 0 blue,
+    -1px -1px 0 blue;
+}
+#links {
+    background-color: rgb(0, 0, 127);
+    text-align: center;
+    margin-left: auto;
+    margin-left: auto;
+}
+#copyright {
+    background-color: rgb(48, 48, 48);
+    border: 0px solid silver;
+    color: silver;
+        text-shadow: 
+    -1px -1px 0 blue,
+    -1px -1px 0 blue,
+    -1px -1px 0 blue,
+    -1px -1px 0 blue;
+}
